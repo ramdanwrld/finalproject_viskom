@@ -1,4 +1,4 @@
-# Sistem Deteksi Social Distancing (Jaga Jarak) di Tempat Umum dengan OpenCV menggunakan Algoritma YOLO
+## Sistem Deteksi Social Distancing (Jaga Jarak) di Tempat Umum dengan OpenCV menggunakan Algoritma YOLO
 
 Anggota:
 

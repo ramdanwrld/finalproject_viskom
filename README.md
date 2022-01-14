@@ -3,6 +3,7 @@ Sistem Deteksi Social Distancing (Jaga Jarak) di Tempat Umum dengan OpenCV mengg
 Anggota:
 
 Azmi Aulia Rahman (1301184086)
+
 Nuraena Ramdani (1301180373)
 
 Langkah-Langkah:

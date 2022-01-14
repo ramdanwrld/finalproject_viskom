@@ -1,6 +1,7 @@
 Sistem Deteksi Social Distancing (Jaga Jarak) di Tempat Umum dengan OpenCV menggunakan Algoritma YOLO
 
 Anggota:
+
 Azmi Aulia Rahman (1301184086)
 Nuraena Ramdani (1301180373)
 

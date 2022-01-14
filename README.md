@@ -1,3 +1,10 @@
+Sistem Deteksi Social Distancing (Jaga Jarak) di Tempat Umum dengan OpenCV menggunakan Algoritma YOLO
+
+Anggota:
+Azmi Aulia Rahman (1301184086)
+Nuraena Ramdani (1301180373)
+
+Langkah-Langkah:
 1. Download terlebih dahulu file di repository github ini dan file yang ada di google drive yang berisi file yolov3.weights dan video.mp4 rekaman yang dibutuhkan untuk menjalan program ini.
 Atau jika mau lihat langsung hasilnya ada output file yang sudah di running yang bernama output.avi .
 2. Link google drive : https://drive.google.com/drive/folders/123kBaMnIIeRHnCSZJwVK9h8s5kyYFXso?usp=sharing 
